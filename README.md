@@ -67,7 +67,7 @@ The following functions are tested through Wokwi:
 - Job A and Job B execution counters
 
 ## Simulation
-**Wokwi Simulation Link:** Add your simulation URL here.
+**Wokwi Simulation Link:** (https://wokwi.com/projects/479593296513259521).
 
 ## Conclusion
 This project demonstrates motor control, FreeRTOS task scheduling, independent simulated current monitoring, and automatic stall recovery using ESP32. It provides a software simulation of the required control and protection behaviour.
